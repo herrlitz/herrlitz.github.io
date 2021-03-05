@@ -39,12 +39,10 @@
         <path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"></path>
         <path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"></path>
     </symbol>
-    <!--
     <symbol id="icon-arrow-down" viewBox="0 0 16 9">
         <title>arrow</title>
         <path d="M7.248 8.505L.4 1.85A1.062 1.062 0 0 1 .4.317a1.138 1.138 0 0 1 1.577 0l6.06 5.889L14.095.318a1.139 1.139 0 0 1 1.577 0 1.06 1.06 0 0 1 0 1.532L8.825 8.505a1.128 1.128 0 0 1-.789.317 1.13 1.13 0 0 1-.788-.317z"/>
     </symbol>
-  -->
     <symbol id="icon-comments" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <title>comments</title>
         <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
